@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "myapp1"
+  "defaultProject": "myapp1",
+  "cli": {
+    "analytics": "031f16d3-d5e7-451a-a6fe-8d34bd7de090"
+  }
 }
